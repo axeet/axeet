@@ -1,0 +1,127 @@
+:root {
+    --default-white:  #FFFFFF;
+    --default-black:  #000000;
+
+    --default-grey:  #808080;
+    --default-dark-grey: #737373;
+    --default-light-grey: #8c8c8c;
+
+    --default-red: #FF0000;
+    --default-dark-red: #e50000;
+    --default-light-red: #ff1919;
+
+    --default-orange: #FFA500;
+    --default-dark-orange: #e59400;
+    --default-light-orange: #ffae19;
+
+    --default-yellow: #FFFF00;
+    --default-dark-yellow: #e5e500;
+    --default-light-yellow: #ffff19;
+
+    --default-green: #008000;
+    --default-dark-green: #007300;
+    --default-light-green: #198c19;
+
+    --default-blue: #0000FF;
+    --default-dark-blue: #0000cc;
+    --default-light-blue: #3232ff;
+
+    --default-purple: #800080;
+    --default-dark-purple: #730073;
+    --default-light-purple: #8c198c;
+
+    --default-pink: #FFC0CB;
+    --default-dark-pink: #e5acb6;
+    --default-light-pink: #ffd2da;
+
+/* Ubuntu colors */
+    --ubuntu-white: #FFFFFF;
+    --ubuntu-black: #000000;
+
+    --ubuntu-grey: #333333;
+    --ubuntu-dark-grey: #111111;
+    --ubuntu-light-grey: #AEA79F;
+
+    --ubuntu-red: --default-red;
+
+    --ubuntu-orange: #E95420;
+
+    --ubuntu-yellow: --default-yellow;
+
+    --ubuntu-green: --default-green;
+
+    --ubuntu-blue: --default-blue;
+
+    --ubuntu-purple: #5E2750;
+    --ubuntu-dark-purple: #2C001E;
+    --ubuntu-light-purple: #77216F;
+
+    --ubuntu-pink: --default-pink;
+
+/* Fedora colors */
+    --fedora-white: --default-white;
+    --fedora-black: --default-black;
+
+    --fedora-grey: #8c8c8c;
+    --fedora-dark-grey: #4c4c4c;
+    --fedora-light-grey: #dedede;
+
+    --fedora-red: --default-red;
+
+    --fedora-orange: #e59728;
+
+    --fedora-yellow: --default-yellow;
+
+    --fedora-green: #79db32;
+
+    --fedora-blue: #3c6eb4;
+    --fedora-dark-blue: #294172;
+
+    --fedora-purple: #a07cbc;
+
+    --fedora-pink: #db3279;
+
+/* Red Hat colors */
+    --redhat-white: --default-white;
+    --redhat-black: --default-black;
+    --redhat-grey: --default-grey;
+
+    --redhat-red: #EE0000;
+
+    --redhat-orange: #F78340;
+    --redhat-light-orange: #FAAA54;
+
+    --redhat-yellow: #FEEA73;
+
+    --redhat-green: #82C199;
+    --redhat-dark-green: #79C4C4;
+    --redhat-light-green: #C1D786;
+    
+    --redhat-blue: #316DBC;
+    --redhat-light-blue: #0499C1;
+
+    --redhat-purple: #5E40B7;
+
+    --redhat-pink: --default-pink;
+
+/* Dracula colors */
+    --dracula-white: #f8f8f2;
+    --dracula-black: #282a36;
+
+    --dracula-grey: #44475a;
+
+    --dracula-red: #ff5555;
+
+    --dracula-orange: #ffb86c;
+
+    --dracula-yellow: #f1fa8c;
+
+    --dracula-green: #50fa7b;
+
+    --dracula-blue: #6272a4;
+    --dracula-light-blue: #8be9fd;
+
+    --dracula-purple: #bd93f9;
+
+    --dracula-pink: #ff79c6;
+}
